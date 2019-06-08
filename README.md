@@ -30,14 +30,14 @@
 
 ### Note
 程序可以在Windows上运行,若要在其他OS上运行请启用 Console_qr选项
-https://wxpy.readthedocs.io/zh/latest/bot.html#id2
+  Ref: https://wxpy.readthedocs.io/zh/latest/bot.html#id2
 
 群聊不一定会拉取所有的群聊,有一些不活动的群聊可能会不被拉取
 
 下一步可能会增加更多的统计数据 (咕咕咕)
 
-
+wxpy reference: https://wxpy.readthedocs.io/zh/latest/index.html
 
 ### 致谢
 
-@王悦	提出了这个需求
+@王悦	提出了这个奇怪的需求
