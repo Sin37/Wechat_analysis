@@ -29,6 +29,8 @@
 
 
 ### Note
+程序可以在Windows上运行,若要在其他OS上运行请启用 Console_qr选项
+https://wxpy.readthedocs.io/zh/latest/bot.html#id2
 
 群聊不一定会拉取所有的群聊,有一些不活动的群聊可能会不被拉取
 
