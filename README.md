@@ -1,7 +1,7 @@
 # Wechat Analysis
 
 ### Overview
-This is a little program that utilized wxpy libary to export your friend list and group chat into csv files. Exported files could be use for generating statistic reports or managing friend lists across multiple accounts.
+This is a little program that utilized wxpy library to export your friend list and group chat into csv files. Exported files could be use for generating statistic reports or managing friend lists across multiple accounts.
 
 ### Usage
 *If you are using Windows:*
